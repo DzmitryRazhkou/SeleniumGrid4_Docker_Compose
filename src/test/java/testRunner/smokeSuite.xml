@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Shetty Academy Smoke Suite" verbose="1">
+
+<!--<suite name="Shetty Academy Smoke Suite" verbose="1"-->
+<!--       thread-count="1" parallel="classes">-->
+
+
+    <test name="Smoke Suite Selenium-Grid Chrome Test">
+        <parameter name="browser" value="chrome-headless"></parameter>
+        <classes>
+            <class name="com.mystore.qa.testcases.RegisterShettyAcademyPageTest"></class>
+            <class name="com.mystore.qa.testcases.ProductShettyAcademyPageTest"></class>
+            <class name="com.mystore.qa.testcases.PaymentShettyAcademyPageTest"></class>
+        </classes>
+    </test>
+
+</suite>

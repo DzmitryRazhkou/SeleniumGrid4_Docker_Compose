@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eab25470-f4dd-4e4a-9f97-41b3e7523056" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2DlnnLfp4dzXUaQW1DV96PSn6SX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/dzmitryrazhkou/Documents/Automation/SeleniumGrid4_Docker/src/test/java/docker",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/docker" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/grid" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/dzmitryrazhkou/Documents/Automation/SeleniumGrid4_Docker/src/test/java/testRunner/smokeSuite.xml">
+    <configuration name="/Users/dzmitryrazhkou/Documents/Automation/SeleniumGrid4_Docker/src/test/java/testRunner/singleRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumGrid4_Docker" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/testRunner/singleRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/dzmitryrazhkou/Documents/Automation/SeleniumGrid4_Docker/src/test/java/testRunner/smokeSuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumGrid4_Docker" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/testRunner/smokeSuite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/dzmitryrazhkou/Documents/Automation/SeleniumGrid4_Docker/src/test/java/testRunner/smokeSuite.xml" />
+        <item itemvalue="TestNG./Users/dzmitryrazhkou/Documents/Automation/SeleniumGrid4_Docker/src/test/java/testRunner/singleRunner.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eab25470-f4dd-4e4a-9f97-41b3e7523056" name="Changes" comment="" />
+      <created>1661282705341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661282705341</updated>
+    </task>
+    <servers />
+  </component>
+</project>
