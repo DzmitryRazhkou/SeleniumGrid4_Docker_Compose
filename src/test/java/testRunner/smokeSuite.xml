@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
-<suite name="Shetty Academy Smoke Suite" verbose="1">
+<suite name="Shetty Academy Smoke Suite">
 
 <!--<suite name="Shetty Academy Smoke Suite" verbose="1"-->
 <!--       thread-count="1" parallel="classes">-->
