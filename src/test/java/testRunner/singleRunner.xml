@@ -9,7 +9,7 @@
     </listeners>
 
     <test name="Chrome Test">
-        <parameter name="browser" value="chrome-grid"></parameter>
+        <parameter name="browser" value="chrome-headless"></parameter>
         <classes>
             <class name="com.mystore.qa.testcases.RegisterShettyAcademyPageTest">
                 <methods>
@@ -20,3 +20,6 @@
     </test>
 
 </suite>
+
+
+<!--        mvn clean install &#45;&#45;update-snapshots-->

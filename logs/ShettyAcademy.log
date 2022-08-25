@@ -1,3 +1,48 @@
-2022-08-24 23:25:40,824  INFO [TestNG-tests-1] BasePage:88 - User enters an email into email field
-2022-08-24 23:25:41,017  INFO [TestNG-tests-1] BasePage:90 - User enters an password into password field
-2022-08-24 23:25:41,162  INFO [TestNG-tests-1] BasePage:92 - User clicks on the login button
+2022-08-25 15:41:59,730  INFO [main] BasePage:88 - User enters an email into email field
+2022-08-25 15:42:00,335  INFO [main] BasePage:90 - User enters an password into password field
+2022-08-25 15:42:00,578  INFO [main] BasePage:92 - User clicks on the login button
+2022-08-25 15:42:12,769  INFO [main] BasePage:88 - User enters an email into email field
+2022-08-25 15:42:13,325  INFO [main] BasePage:90 - User enters an password into password field
+2022-08-25 15:42:13,580  INFO [main] BasePage:92 - User clicks on the login button
+2022-08-25 15:42:13,910  WARN [main] BasePage:282 - Incorrect credentials confirmation log out pop up message should be displayed
+2022-08-25 15:42:22,213  INFO [main] BasePage:212 - User clicks on the register button
+2022-08-25 15:42:24,276  INFO [main] BasePage:215 - User enters an first name
+2022-08-25 15:42:24,843  INFO [main] BasePage:219 - User enters an last name
+2022-08-25 15:42:25,028  INFO [main] BasePage:223 - User enters an email address
+2022-08-25 15:42:25,276  WARN [main] BasePage:227 - User enters a phone number
+2022-08-25 15:42:25,403  WARN [main] BasePage:231 - User selects an occupation from drop down menu
+2022-08-25 15:42:25,671  INFO [main] BasePage:234 - User selects a gender
+2022-08-25 15:42:25,875  INFO [main] BasePage:237 - User enters a password
+2022-08-25 15:42:27,037  INFO [main] BasePage:241 - User confirms a password
+2022-08-25 15:42:27,214  INFO [main] BasePage:245 - User confirms that under 18+
+2022-08-25 15:42:27,318  INFO [main] BasePage:248 - User confirms at log in button
+2022-08-25 15:42:27,469  INFO [main] BasePage:262 - Success registration message should be dislplayed
+2022-08-25 15:42:35,409  INFO [main] BasePage:38 - Register page title test
+2022-08-25 15:42:43,103  WARN [main] BasePage:51 - Social media links
+2022-08-25 15:42:50,340  INFO [main] BasePage:25 - Log in form should be dislplayed
+2022-08-25 15:42:59,443  INFO [main] BasePage:61 - Academy email header test
+2022-08-25 15:43:07,176  INFO [main] BasePage:88 - User enters an email into email field
+2022-08-25 15:43:07,769  INFO [main] BasePage:90 - User enters an password into password field
+2022-08-25 15:43:08,013  INFO [main] BasePage:92 - User clicks on the login button
+2022-08-25 15:43:22,911  INFO [main] BasePage:88 - User enters an email into email field
+2022-08-25 15:43:23,439  INFO [main] BasePage:90 - User enters an password into password field
+2022-08-25 15:43:23,661  INFO [main] BasePage:92 - User clicks on the login button
+2022-08-25 15:43:39,229  INFO [main] BasePage:88 - User enters an email into email field
+2022-08-25 15:43:39,754  INFO [main] BasePage:90 - User enters an password into password field
+2022-08-25 15:43:39,977  INFO [main] BasePage:92 - User clicks on the login button
+2022-08-25 15:43:55,543  INFO [main] BasePage:88 - User enters an email into email field
+2022-08-25 15:43:56,053  INFO [main] BasePage:90 - User enters an password into password field
+2022-08-25 15:43:56,279  INFO [main] BasePage:92 - User clicks on the login button
+2022-08-25 15:44:13,593  INFO [main] BasePage:88 - User enters an email into email field
+2022-08-25 15:44:14,126  INFO [main] BasePage:90 - User enters an password into password field
+2022-08-25 15:44:14,350  INFO [main] BasePage:92 - User clicks on the login button
+2022-08-25 15:44:23,563  INFO [main] BasePage:88 - User enters an email into email field
+2022-08-25 15:44:24,103  INFO [main] BasePage:90 - User enters an password into password field
+2022-08-25 15:44:24,311  INFO [main] BasePage:92 - User clicks on the login button
+2022-08-25 15:44:31,883  INFO [main] BasePage:88 - User enters an email into email field
+2022-08-25 15:44:32,427  INFO [main] BasePage:90 - User enters an password into password field
+2022-08-25 15:44:32,664  INFO [main] BasePage:92 - User clicks on the login button
+2022-08-25 15:44:35,887  WARN [main] BasePage:108 - Confirmation log out pop up message should be displayed
+2022-08-25 15:44:43,624  INFO [main] BasePage:88 - User enters an email into email field
+2022-08-25 15:44:44,121  INFO [main] BasePage:90 - User enters an password into password field
+2022-08-25 15:44:44,332  INFO [main] BasePage:92 - User clicks on the login button
