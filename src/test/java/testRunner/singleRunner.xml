@@ -9,7 +9,7 @@
     </listeners>
 
     <test name="Chrome Test">
-        <parameter name="browser" value="firefox-headless"></parameter>
+        <parameter name="browser" value="chrome-grid"></parameter>
         <classes>
             <class name="com.mystore.qa.testcases.RegisterShettyAcademyPageTest">
                 <methods>
